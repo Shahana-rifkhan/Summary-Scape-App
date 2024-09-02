@@ -3,8 +3,6 @@ An android application for summarizing any YouTube video, It uses NLP to process
 
 ### NLP-driven YouTube Video Summarising Android Application
 
-> Can’t decide whether or not to watch an entire video or don’t have much time to watch that? Use SummaryScape and get a “summarised version” of any video!
-
 We provide an Android Application that generates the summary of any video on YouTube that you want to watch quickly. We use NLP to process the subtitles of the video and give you a crunched video that encompasses all the essential parts while leaving out filler words and stop words. We compress the video and deliver to you a considerably shortened video.
 This can be especially useful for students who wish to quickly go through an educational video on youtube or elsewhere and want to see if what they are looking for is available in the video. They can then decide whether or not to watch the entire video.
 
